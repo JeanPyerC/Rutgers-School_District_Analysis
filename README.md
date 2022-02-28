@@ -5,6 +5,4 @@
 
 
 ## Scholl District Results:   
-
-**1. How is the district summary affected?**  
-  - 
+**1.**
