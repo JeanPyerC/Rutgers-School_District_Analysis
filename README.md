@@ -9,26 +9,26 @@
   - The districted summary is obtaining the total number of students within the entire data, and subtracting the number of students that are in ninth grade at Thomas High School.   
   - When examining the first photo, the average reading score and math is score is high, the overall passing is low.  
   - When examining the second photo, even if we included the ninth graders at Thomas High School in this equation, it's only a slight 2% difference.
- ![](District_Summary.png)
- ![](District_Summary_Adj.png)
+ ![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/District_Summary.png)
+ ![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/District_Summary_Adj.png)
 
 **2. How is the school summary affected**
   - The school summary is obtaining the entire data and organzining it by the school namne. 
   - When examining the photo below, you can see the average percentage of passing students on both subjects. You can have an idea to which school has is brining the overall passing grade down. 
   - You can also say that school with the total number of students above 2,500 will have a overall passing of below 60%.  
-  ![](School_Summary.png)
+  ![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/School_Summary.png)
 
 **3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
   - Keep in mind the average is only counting the passing scores if it's greater or equal to 70.
   - I ran the formula again without replacing the values of the 9th graders scores in both subject, and the average result will be the same.   
-![](Python_Nah_adj.png)
+![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/Python_Nah_adj.png)
 
 
 **4. How does replacing the value affect the following:
   - Math and reading scores by grade?
     - By not running the cell, viewing the photo below, you can see without replacing the value we actaully have a score oppose to "nan".
-![](Score_Summary.png)
-![](Score_Summary_adj.png)
+![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/Score_Summary.png)
+![](https://github.com/JeanPyerC/Rutgers-School_District_Analysis/blob/main/School_District_Analysis/Photos/Score_Summary_adj.png)
 
   - Scores by school spending? 
     - By not running the cell, I didn't see a big difference in terms of school spending. 
