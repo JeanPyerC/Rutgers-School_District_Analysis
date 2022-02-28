@@ -24,7 +24,9 @@
   - Scores by school spending? 
     - By not running the cell, I didn't see a big difference in terms of school spending. 
   - Scores by school size?
-    - By not running the cell, I didn't see a no difference in terms of school size. 
+    - By not running the cell, I didn't see no difference in terms of school size. 
+  - Score by school type?
+    - By nor running the cell, all results came out and the same. 
 
 
 ## Summary
